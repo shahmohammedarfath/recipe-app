@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Spaghetti Carbonara",
+    "ingredients": [
+      "Spaghetti",
+      "Eggs",
+      "Parmesan cheese",
+      "Pancetta",
+      "Black pepper"
+    ],
+    "instructions": "Cook the spaghetti in salted boiling water. In a pan, fry the pancetta until crispy. In a bowl, mix eggs and Parmesan cheese. Combine the spaghetti with the pancetta, then quickly mix in the egg mixture off the heat to create a creamy sauce. Season with black pepper and serve.",
+    "image": "https://example.com/carbonara"
+  },
+  {
+    "title": "Chicken Stir Fry",
+    "ingredients": [
+      "Chicken breast",
+      "Soy sauce",
+      "Garlic",
+      "Ginger",
+      "Mixed vegetables (broccoli, bell peppers, carrots)",
+      "Sesame oil"
+    ],
+    "instructions": "Cut the chicken breast into strips and marinate in soy sauce, garlic, and ginger. Stir fry the vegetables in sesame oil until tender. Add the chicken and cook until browned and cooked through. Serve with rice or noodles.",
+    "image": "https://example.com/chicken-stir-fry"
+  },
+  {
+    "title": "Vegetable Curry",
+    "ingredients": [
+      "Onion",
+      "Garlic",
+      "Ginger",
+      "Tomato",
+      "Coconut milk",
+      "Mixed vegetables (potatoes, carrots, peas, cauliflower)",
+      "Curry powder"
+    ],
+    "instructions": "Saute onion, garlic, and ginger in oil. Add curry powder and cook for a minute. Add tomatoes and cook until soft. Stir in coconut milk and vegetables, simmer until the vegetables are tender. Serve with rice.",
+    "image": "https://example.com/vegetable-curry"
+  },
+  {
+    "title": "Pancakes",
+    "ingredients": [
+      "Flour",
+      "Eggs",
+      "Milk",
+      "Baking powder",
+      "Sugar",
+      "Butter"
+    ],
+    "instructions": "Mix flour, sugar, and baking powder in a bowl. In another bowl, whisk eggs and milk. Combine the wet and dry ingredients, then add melted butter. Cook on a hot griddle until golden brown on both sides. Serve with syrup.",
+    "image": "https://example.com/pancakes"
+  },
+  {
+    "title": "Guacamole",
+    "ingredients": [
+      "Avocados",
+      "Lime",
+      "Onion",
+      "Cilantro",
+      "Tomato",
+      "Salt",
+      "Jalapeño (optional)"
+    ],
+    "instructions": "Mash the avocados in a bowl. Add lime juice, chopped onion, cilantro, diced tomato, and salt. Mix until combined. Add jalapeño if you like it spicy. Serve with tortilla chips.",
+    "image": "https://example.com/guacamole"
+  }
+]
